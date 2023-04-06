@@ -1,4 +1,4 @@
-# Pygame-Minigame-Level-1
+# Pygame-Minigame-Level-1.py
 # Game name: Moving Geometry
 
 import pygame
